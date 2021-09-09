@@ -7,5 +7,5 @@ Solved and Passed Question will be linked
 ## [SumOfReversed](https://github.com/Chu-Wx/CodeSignal_Practice_Question/blob/main/SumOfReversed.py)
 !<img width="520" alt="Screen Shot 2021-09-09 at 1 34 14 PM" src="https://user-images.githubusercontent.com/64442606/132736352-b3eb5200-1f51-4b0a-a0ae-2cb2c4a67f94.png">
 
-##[BoundedRatio]()
+##[BoundedRatio](https://github.com/Chu-Wx/CodeSignal_Practice_Question/blob/main/BoundedRatio.py)
 !<img width="524" alt="Screen Shot 2021-09-09 at 1 34 27 PM" src="https://user-images.githubusercontent.com/64442606/132736858-850a427f-a69f-47ea-86c8-af6de769be2f.png">
