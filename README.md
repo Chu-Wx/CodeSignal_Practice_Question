@@ -13,3 +13,15 @@ Solved and Passed Question will be linked
 ## RotatedRectangle
 <img width="524" alt="Screen Shot 2021-09-09 at 1 34 00 PM" src="https://user-images.githubusercontent.com/64442606/132737202-f5d42013-7f94-4123-ae92-015cb2415bd7.png">
 
+## MutateArray
+<img width="524" alt="Screen Shot 2021-09-17 at 12 38 27 PM" src="https://user-images.githubusercontent.com/64442606/133832082-5573bf98-fb53-4e05-8c3a-73c2e960f718.png">
+<img width="469" alt="Screen Shot 2021-09-17 at 12 46 02 PM 1" src="https://user-images.githubusercontent.com/64442606/133832116-7446f2c8-9d7d-4c5a-a95d-a1eef4f0fd49.png">
+
+## MakeIncreasing
+<img width="530" alt="Screen Shot 2021-09-17 at 1 45 36 PM" src="https://user-images.githubusercontent.com/64442606/133832018-cf0cf848-3190-4676-866b-838219086f4a.png">
+
+## ConstructorNames
+<img width="520" alt="Screen Shot 2021-09-17 at 1 45 10 PM" src="https://user-images.githubusercontent.com/64442606/133832054-123e4317-0aeb-4c0a-adaa-475343e0fdd0.png">
+
+## HashMap
+<img width="516" alt="Screen Shot 2021-09-17 at 1 44 39 PM" src="https://user-images.githubusercontent.com/64442606/133832154-da2f52d7-ff4c-4514-9e9e-c1455be60964.png">
